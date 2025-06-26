@@ -71,7 +71,7 @@ cd alicorp_snacks
 ```
 
 ### 3. Configurar el Entorno Virtual
-
+```console
 # Crear el entorno virtual
 python -m venv venv
 
@@ -80,6 +80,7 @@ python -m venv venv
 .\venv\Scripts\activate
 # En macOS/Linux:
 source venv/bin/activate
+```
 
 ### 4. Instalar Dependencias
 ```console
