@@ -54,7 +54,9 @@ generar_descripcion_producto = service_module.generar_descripcion_producto
 analizar_feedback = service_module.analizar_feedback
 generar_prompt_imagen = service_module.generar_prompt_imagen
 
-### Interfaz de Usuario | Streamlit
+
+
+### Interfaz de Usuario | Streamlit ###
 st.title("🚀 Alicorp AI-Studio") # h1
 st.markdown(f"""<div style='font-size:18px; color:#6c757d'>
                     Una herramienta de IA Generativa para acelerar tus lanzamientos | IA: <b>{provider}</b>
