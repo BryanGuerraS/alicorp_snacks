@@ -1,0 +1,6 @@
+streamlit
+openai
+python-dotenv
+google-generativeai
+pip install --upgrade google-cloud-aiplatform
+pip install --upgrade google-cloud-aiplatform "pillow"
