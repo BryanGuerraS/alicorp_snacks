@@ -65,9 +65,10 @@ La solución está construida con un enfoque en la modularidad y escalabilidad, 
 
 ### 2. Clonar el Repositorio
 
-```bash
+```console
 git clone https://github.com/tu-usuario/alicorp_snacks.git
 cd alicorp_snacks
+```
 
 ### 3. Configurar el Entorno Virtual
 
