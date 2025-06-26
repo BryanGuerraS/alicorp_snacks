@@ -31,7 +31,7 @@ La solución está construida con un enfoque en la modularidad y escalabilidad, 
 - **Proveedores de IA**:  
   - OpenAI (GPT-4o-mini, DALL·E 3)  
   - Google AI Studio (Gemini 1.5 Flash - Capa gratuita)  
-  - Google Cloud Vertex AI (Gemini 1.5 Flash & Imagen 2 - Usando créditos de GCP)  
+  - Google Cloud Vertex AI (Gemini 2.0 Flash Lite & Imagen 2 - Usando créditos de GCP)  
 - **Gestión de Dependencias**: `pip` y `virtualenv`
 
 ---
